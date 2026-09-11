@@ -1,0 +1,12 @@
+{
+  "name": "taqueria-cinco-de-mayo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun scripts/serve.mjs",
+    "build": "bun scripts/build.mjs",
+    "check": "bun scripts/check.mjs",
+    "preview": "bun scripts/serve.mjs --production"
+  }
+}

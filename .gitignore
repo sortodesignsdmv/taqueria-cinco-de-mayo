@@ -1,0 +1,7 @@
+node_modules/
+.sites-runtime/
+.vercel/
+.env*
+!.env.example
+output/
+*.log
